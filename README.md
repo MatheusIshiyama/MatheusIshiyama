@@ -8,7 +8,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif" width="500" >
 
-## Some Curiosities about me
+## 💡 Some Curiosities about me
 
 - 😄 My name is **Matheus Eduardo Ishiyama** and I'm **20** years old.
 - 🎓 I have a diploma in industrial automation technician.
