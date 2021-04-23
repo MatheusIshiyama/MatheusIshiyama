@@ -18,6 +18,13 @@
 - 😊 I love develop projects, so if you have some ideas, talk to me, maybe we can do it together.
 - 🤖 I have a lot of Discord bots to improve my experience in the platform.
 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusIshiyama&theme=algolia" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=matheusishiyama&count_private&include_all_commits=true&show_icons=true&theme=algolia" width="48%" />
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusishiyama&layout=compact&langs_count=8&theme=algolia" width="40%" />
+
 ### My 🚀 Tecnologies and 🧰 Tools
 
 ![Backend](https://img.shields.io/badge/⚡_BACKEND_|_🚀_Tecnologies_and_🧰_Tools-black?style=flat-square)
@@ -48,6 +55,3 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino&logoColor=white "Arduino")
 ![C](https://img.shields.io/badge/-Language_C-blue?style=flat-square&logo=C&logoColor=white)
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusishiyama&count_private&include_all_commits=true&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusishiyama&hide=TeX&layout=compact&theme=algolia)
