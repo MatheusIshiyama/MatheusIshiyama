@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Matheus_Ishiyama_%28click_here%29-0a66c2?style=flat-square&logo=Linkedin "https://www.linkedin.com/in/matheus-ishiyama-674450181")](https://www.linkedin.com/in/matheus-ishiyama-674450181/)
 ![Hotmail](https://img.shields.io/badge/-semrumo3@hotmail.com-0078D4?style=flat-square&logo=microsoft "semrumo3@hotmail.com")
 [![BuyMeACoffe](https://img.shields.io/badge/-Buy_me_a_coffe-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MatheusIshiyama)
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama.MatheusIshiyama)
 
 <img align="right" src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif" width="500" >
 
@@ -50,5 +51,3 @@
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusishiyama&count_private&include_all_commits=true&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusishiyama&hide=TeX&layout=compact&theme=algolia)
-
-![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama)
