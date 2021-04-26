@@ -2,7 +2,7 @@
 
 ![Discord](https://img.shields.io/badge/-Bravan%236013-7289da?style=flat-square&logo=Discord&logoColor=white "Bravan#6013")
 [![LinkedIn](https://img.shields.io/badge/-Matheus_Ishiyama_%28click_here%29-0a66c2?style=flat-square&logo=Linkedin "https://www.linkedin.com/in/matheus-ishiyama-674450181")](https://www.linkedin.com/in/matheus-ishiyama-674450181/)
-![Hotmail](https://img.shields.io/badge/-semrumo3@hotmail.com-0078D4?style=flat-square&logo=microsoft "matheus.ishiyama@outlook.com")
+![Hotmail](https://img.shields.io/badge/-matheus.ishiyama@outlook.com-0078D4?style=flat-square&logo=microsoft "matheus.ishiyama@outlook.com")
 [![BuyMeACoffe](https://img.shields.io/badge/-Buy_me_a_coffe-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MatheusIshiyama)
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama.MatheusIshiyama)
 
