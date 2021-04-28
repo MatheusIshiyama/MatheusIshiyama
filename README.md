@@ -18,7 +18,7 @@
 - 😊 I love develop projects, so if you have some ideas, talk to me, maybe we can do it together.
 - 🤖 I have a lot of Discord bots to improve my UX in the platform.
 
-<img align="left" src="https://bipedepop.files.wordpress.com/2018/08/bc3adpede-pop-para-reflexc3a3o-e-relaxamento-conhec3a7a-lofi-hip-hop-um-estilo-para-introspectividade-e-para-vida-2.gif" width="550" height="450">
+<img align="left" src="https://bipedepop.files.wordpress.com/2018/08/bc3adpede-pop-para-reflexc3a3o-e-relaxamento-conhec3a7a-lofi-hip-hop-um-estilo-para-introspectividade-e-para-vida-2.gif" width="550" height="430">
 
 <p align="right">
   
