@@ -25,7 +25,7 @@
 ## 💡 Algumas curiosidades sobre mim
 
 - 😄 Meu nome é **Matheus Eduardo Ishiyama** e eu tenho **20** anos.
-- 🎓 Tenho diploma em **técnico em Automação Industrial**.
+- 🎓 Tenho diploma em **Técnico de Automação Industrial**.
 - 📚 Sou autodidata, então estudo por minha conta.
 - 💻 Por agora, estou estudando sobre _Typescript_, _NodeJs_, _ReactJs_, _React Native_ and _Python_.
 - 🎶 Eu amo ouvir música, então em tudo o quê eu faço, eu escuto música. Eu costumo ouvir músicas do tipo Lo-fi, Pop e Alternativas.
