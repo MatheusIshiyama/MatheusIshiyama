@@ -18,7 +18,7 @@
 - 😊 I love develop projects, so if you have some ideas, talk to me, maybe we can do it together.
 - 🤖 I have a lot of Discord bots to improve my UX in the platform.
 
-<img align="left" src="https://bipedepop.files.wordpress.com/2018/08/bc3adpede-pop-para-reflexc3a3o-e-relaxamento-conhec3a7a-lofi-hip-hop-um-estilo-para-introspectividade-e-para-vida-2.gif" width="500" >
+<img align="left" src="https://bipedepop.files.wordpress.com/2018/08/bc3adpede-pop-para-reflexc3a3o-e-relaxamento-conhec3a7a-lofi-hip-hop-um-estilo-para-introspectividade-e-para-vida-2.gif" width="550" height="450">
 
 <p align="right">
   
@@ -28,7 +28,7 @@
 - 🎓 Tenho diploma em **técnico em Automação Industrial**.
 - 📚 Sou autodidata, então estudo por minha conta.
 - 💻 Por agora, estou estudando sobre _Typescript_, _NodeJs_, _ReactJs_, _React Native_ and _Python_.
-- 🎶 Eu amo ouvir música, então tudo o quê eu faço, eu escuto música. Eu costumo ouvir músicas do tipo Lo-fi, Pop e Alternativas.
+- 🎶 Eu amo ouvir música, então em tudo o quê eu faço, eu escuto música. Eu costumo ouvir músicas do tipo Lo-fi, Pop e Alternativas.
 - 😊 Eu amo desenvolver projetos, então se você tiver algumas ideias, fale comigo, talvez podemos fazer isso juntos.
 - 🤖 Eu tenho um monte de _bot_ de Discord para melhorar meu UX na plataforma.
 
@@ -74,8 +74,9 @@
 
 ![Studying | Interests](https://img.shields.io/badge/🌱_Studying_&_Interests_|_Estudando_&_Interesses_-0e328c?style=flat-square)
 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white "Node.js")
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=flat-square&logo=typescript&logoColor=white "Typescript")
-![SASS](https://img.shields.io/badge/-SASS-BF4080?style=flat-square&logo=sass&logoColor=white "SASS")
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=next.js&logoColor=white "Next.js")
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react&logoColor=white "React")
+![SASS](https://img.shields.io/badge/-SASS-BF4080?style=flat-square&logo=sass&logoColor=white "SASS")
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=Python&logoColor=white)
