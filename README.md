@@ -6,7 +6,7 @@
 [![BuyMeACoffe](https://img.shields.io/badge/-Buy_me_a_coffe-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MatheusIshiyama)
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama.MatheusIshiyama)
 
-<img align="right" src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif" width="500">
+<img align="right" src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif" width="550">
 
 ## 💡 Some Curiosities about me
 
@@ -18,7 +18,7 @@
 - 😊 I love develop projects, so if you have some ideas, talk to me, maybe we can do it together.
 - 🤖 I have a lot of Discord bots to improve my UX in the platform.
 
-<img align="left" src="https://bipedepop.files.wordpress.com/2018/08/bc3adpede-pop-para-reflexc3a3o-e-relaxamento-conhec3a7a-lofi-hip-hop-um-estilo-para-introspectividade-e-para-vida-2.gif" width="550" height="430">
+<img align="left" src="https://bipedepop.files.wordpress.com/2018/08/bc3adpede-pop-para-reflexc3a3o-e-relaxamento-conhec3a7a-lofi-hip-hop-um-estilo-para-introspectividade-e-para-vida-2.gif" width="550">
 
 <p align="right">
   
