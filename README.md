@@ -39,7 +39,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusishiyama&layout=compact&langs_count=8&theme=algolia" width="40%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusishiyama&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=algolia" width="40%" />
 
 ### My 🚀 Tecnologies and 🧰 Tools
 
