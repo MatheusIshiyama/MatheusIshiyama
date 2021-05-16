@@ -41,38 +41,27 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusishiyama&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=algolia" width="40%" />
 
-### My 🚀 Tecnologies and 🧰 Tools
+### 🚀 Tecnologies and 🧰 Tools
 
-![Backend](https://img.shields.io/badge/⚡_BACKEND-0e328c?style=flat-square)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black "Javascript")
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black "Javascript")
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=flat-square&logo=typescript&logoColor=white "Typescript")
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white "Node.js")
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white "MongoDB")
 ![SQLite](https://img.shields.io/badge/-SQLite-03BAFC?style=flat-square&logo=sqlite&logoColor=white "SQLite")
 ![Discord.js](https://img.shields.io/badge/-Discord.js-7289da?style=flat-square&logo=Discord&logoColor=white "Discord.js")
-
-![Frontend](https://img.shields.io/badge/⚡_FRONTEND-0e328c?style=flat-square)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white "HTML5")
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3 "CSS3")
 ![SASS](https://img.shields.io/badge/-SASS-BF4080?style=flat-square&logo=sass&logoColor=white "SASS")
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=next.js&logoColor=white "Next.js")
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react&logoColor=white "React")
-
-![Mobile](https://img.shields.io/badge/⚡_MOBILE-0e328c?style=flat-square)
-
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=Expo "Expo")
 ![ReactNative](https://img.shields.io/badge/-React_Native-1572B6?style=flat-square&logo=react&logoColor=white "React Native")
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=flutter "Flutter")
 ![Dart](https://img.shields.io/badge/-Dart-0390fc?style=flat-square&logo=dart "Dart")
-
-![IoT](https://img.shields.io/badge/⚡_IoT-0e328c?style=flat-square)
-
 ![Arduino](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino&logoColor=white "Arduino")
 ![C](https://img.shields.io/badge/-Language_C-blue?style=flat-square&logo=C&logoColor=white)
 
-![Studying | Interests](https://img.shields.io/badge/🌱_Studying_&_Interests_|_Estudando_&_Interesses_-0e328c?style=flat-square)
+### 🔭 Studying & Interests | Estudando & Interesses
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white "Node.js")
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=flat-square&logo=typescript&logoColor=white "Typescript")
