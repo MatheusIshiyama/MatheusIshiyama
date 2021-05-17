@@ -45,15 +45,15 @@
 
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "Javascript")
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white "Node.js")
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white "Node.js")
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")
 ![SQLite](https://img.shields.io/badge/-SQLite-03BAFC?style=for-the-badge&logo=sqlite&logoColor=white "SQLite")
 ![Discord.js](https://img.shields.io/badge/-Discord.js-7289da?style=for-the-badge&logo=Discord&logoColor=white "Discord.js")
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3 "CSS3")
 ![SASS](https://img.shields.io/badge/-SASS-BF4080?style=for-the-badge&logo=sass&logoColor=white "SASS")
-![Nextjs](https://img.shields.io/badge/-Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
-![Expo](https://img.shields.io/badge/-Expo-20232A?style=for-the-badge&logo=Expo "Expo")
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
+![Expo](https://img.shields.io/badge/-Expo-000000?style=for-the-badge&logo=Expo "Expo")
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")
 ![ReactNative](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=for-the-badge&logo=flutter "Flutter")
@@ -63,9 +63,9 @@
 
 ### 🔭 Studying & Interests | Estudando & Interesses
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white "Node.js")
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white "Node.js")
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
 ![React](https://img.shields.io/badge/-React-1572B6?style=for-the-badge&logo=react&logoColor=white "React")
 ![SASS](https://img.shields.io/badge/-SASS-BF4080?style=for-the-badge&logo=sass&logoColor=white "SASS")
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=Python&logoColor=white)
