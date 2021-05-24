@@ -60,6 +60,9 @@
 ![Dart](https://img.shields.io/badge/-Dart-0390fc?style=for-the-badge&logo=dart "Dart")
 ![Arduino](https://img.shields.io/badge/-Arduino-008184?style=for-the-badge&logo=Arduino&logoColor=white "Arduino")
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-fa383e?style=for-the-badge&logo=jest&logoColor=white "Jest")
+![Jenkins](https://img.shields.io/badge/-Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white "Jenkins")
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white "Docker")
 
 ### 🔭 Studying & Interests | Estudando & Interesses
 
