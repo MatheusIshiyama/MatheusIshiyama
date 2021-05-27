@@ -64,6 +64,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-fa383e?style=for-the-badge&logo=jest&logoColor=white "Jest")
 ![Jenkins](https://img.shields.io/badge/-Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white "Jenkins")
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white "Docker")
+![SonarQube](https://img.shields.io/badge/-SonarQube-4C9BD6?style=for-the-badge&logo=sonarqube&logoColor=white "SonarQube")
 
 ### 🔭 Studying & Interests | Estudando & Interesses
 
