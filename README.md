@@ -1,16 +1,21 @@
 ## Hey there, welcome to my github space 👋 Olá, seja bem vindo ao meu espaço github
 
+**Contacts**
+
 ![Discord](https://img.shields.io/badge/-Matheus_Ishiyama%236013-7289da?style=flat-square&logo=Discord&logoColor=white "Bravan#6013")
 [![LinkedIn](https://img.shields.io/badge/-Matheus_Ishiyama-0a66c2?style=flat-square&logo=Linkedin "https://www.linkedin.com/in/matheusishiyama")](https://www.linkedin.com/in/matheusishiyama/)
 ![Hotmail](https://img.shields.io/badge/-matheus.ishiyama@outlook.com-0078D4?style=flat-square&logo=microsoft "matheus.ishiyama@outlook.com")
 [![BuyMeACoffe](https://img.shields.io/badge/-Buy_me_a_coffe-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MatheusIshiyama)
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama.MatheusIshiyama)
 
+---
+
 <img align="right" src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif" width="50%">
 
 ## 💡 Some Curiosities about me
 
 - 😄 My name is **Matheus Eduardo Ishiyama** and I'm **20** years old.
+- 💻 Backend Developer at Lead Up.
 - 🎓 I have a diploma in **Industrial Automation Technician**.
 - 📚 I'm self-taught, so I study by my own.
 - 💻 For now, I'm studying about _Typescript_, _NodeJs_, _ReactJs_, _React Native_ and _Python_.
@@ -25,6 +30,7 @@
 ## 💡 Algumas curiosidades sobre mim
 
 - 😄 Meu nome é **Matheus Eduardo Ishiyama** e eu tenho **20** anos.
+- 💻 Desenvolvedor Backend na Lead Up.
 - 🎓 Tenho diploma em **Técnico de Automação Industrial**.
 - 📚 Sou autodidata, então estudo por minha conta.
 - 💻 Por agora, estou estudando sobre _Typescript_, _NodeJs_, _ReactJs_, _React Native_ and _Python_.
