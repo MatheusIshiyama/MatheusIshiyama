@@ -1,5 +1,7 @@
 ## Hey there, welcome to my github space 👋 Olá, seja bem vindo ao meu espaço github
 
+---
+
 **Contacts**
 
 ![Discord](https://img.shields.io/badge/-Matheus_Ishiyama%234401-7289da?style=flat-square&logo=Discord&logoColor=white "Matheus Ishiyama#4401")
