@@ -1,14 +1,14 @@
-## Hey there, welcome to my github space 👋 Olá, seja bem vindo ao meu espaço github
+## Hey there, welcome to my github space 👋 Olá, seja bem vindo ao meu espaço github ![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama.MatheusIshiyama)
 
 ---
 
 **Contacts**
 
-![Discord](https://img.shields.io/badge/-Matheus_Ishiyama%234401-7289da?style=flat-square&logo=Discord&logoColor=white "Matheus Ishiyama#4401")
-[![LinkedIn](https://img.shields.io/badge/-Matheus_Ishiyama-0a66c2?style=flat-square&logo=Linkedin "https://www.linkedin.com/in/matheusishiyama")](https://www.linkedin.com/in/matheusishiyama/)
-![Hotmail](https://img.shields.io/badge/-matheus.ishiyama@outlook.com-0078D4?style=flat-square&logo=microsoft "matheus.ishiyama@outlook.com")
-[![BuyMeACoffe](https://img.shields.io/badge/-Buy_me_a_coffe-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MatheusIshiyama)
-![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama.MatheusIshiyama)
+![Discord](https://img.shields.io/badge/-Matheus_Ishiyama%234401-7289da?style=for-the-badge&logo=Discord&logoColor=white "Matheus Ishiyama#4401")
+[![LinkedIn](https://img.shields.io/badge/-Matheus_Ishiyama-0a66c2?style=for-the-badge&logo=Linkedin "https://www.linkedin.com/in/matheusishiyama")](https://www.linkedin.com/in/matheusishiyama/)
+![Hotmail](https://img.shields.io/badge/-matheus.ishiyama@outlook.com-0078D4?style=for-the-badge&logo=microsoft "matheus.ishiyama@outlook.com")
+[![BuyMeACoffe](https://img.shields.io/badge/-Buy_me_a_coffe-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MatheusIshiyama)
+
 
 ---
 
