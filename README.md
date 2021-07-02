@@ -53,7 +53,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white "Node.js")
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=Postgresql&logoColor=white "Postgres SQL")
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=Postgresql&logoColor=white "Postgre SQL")
 ![SQLite](https://img.shields.io/badge/-SQLite-03BAFC?style=for-the-badge&logo=sqlite&logoColor=white "SQLite")
 ![Discord.js](https://img.shields.io/badge/-Discord.js-7289da?style=for-the-badge&logo=Discord&logoColor=white "Discord.js")
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
