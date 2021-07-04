@@ -1,6 +1,6 @@
 ## Hey there, welcome to my github space 👋 Olá, seja bem vindo ao meu espaço github ![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama.MatheusIshiyama)
 
-**Contacts**
+**Contacts | Contatos**
 
 ![Discord](https://img.shields.io/badge/-Matheus_Ishiyama%234401-7289da?style=for-the-badge&logo=Discord&logoColor=white "Matheus Ishiyama#4401")
 [![LinkedIn](https://img.shields.io/badge/-Matheus_Ishiyama-0a66c2?style=for-the-badge&logo=Linkedin "https://www.linkedin.com/in/matheusishiyama")](https://www.linkedin.com/in/matheusishiyama/)
