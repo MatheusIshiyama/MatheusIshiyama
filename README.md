@@ -18,7 +18,7 @@
 - 💻 Backend Developer at Lead Up Digital.
 - 🎓 I have a diploma in **Industrial Automation Technician**.
 - 📚 I'm self-taught, so I study by my own.
-- 💻 For now, I'm studying about _Typescript_, _NodeJs_, _ReactJs_, _React Native_ and _Python_.
+- 💻 For now, I'm studying about _Typescript_, _NodeJs_, _ReactJs_ and _React Native_.
 - 🎶 I love listening to music, so anything I do, I listen to music. I usually listen to Lo-fi, Pop and Alternatives songs.
 - 😊 I love develop projects, so if you have some ideas, talk to me, maybe we can do it together.
 - 🤖 I have a lot of Discord bots to improve my UX in the platform.
@@ -33,7 +33,7 @@
 - 💻 Desenvolvedor Backend na Lead Up Digital.
 - 🎓 Tenho diploma em **Técnico de Automação Industrial**.
 - 📚 Sou autodidata, então estudo por minha conta.
-- 💻 Por agora, estou estudando sobre _Typescript_, _NodeJs_, _ReactJs_, _React Native_ and _Python_.
+- 💻 Por agora, estou estudando sobre _Typescript_, _NodeJs_, _ReactJs_ e _React Native_.
 - 🎶 Eu amo ouvir música, então em tudo o quê eu faço, eu escuto música. Eu costumo ouvir músicas do tipo Lo-fi, Pop e Alternativas.
 - 😊 Eu amo desenvolver projetos, então se você tiver algumas ideias, fale comigo, talvez podemos fazer isso juntos.
 - 🤖 Eu tenho um monte de _bot_ de Discord para melhorar meu UX na plataforma.
