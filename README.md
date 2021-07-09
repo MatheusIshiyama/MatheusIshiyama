@@ -7,7 +7,6 @@
 ![Hotmail](https://img.shields.io/badge/-matheus.ishiyama@outlook.com-0078D4?style=for-the-badge&logo=microsoft "matheus.ishiyama@outlook.com")
 [![BuyMeACoffe](https://img.shields.io/badge/-Buy_me_a_coffe-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MatheusIshiyama)
 
-
 ---
 
 <img align="right" src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif" width="50%">
