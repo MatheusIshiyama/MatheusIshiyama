@@ -75,8 +75,5 @@
 ### 🔭 Studying & Interests | Estudando & Interesses
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white "Node.js")
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "Javascript")
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
-![React](https://img.shields.io/badge/-React-1572B6?style=for-the-badge&logo=react&logoColor=white "React")
-![SASS](https://img.shields.io/badge/-SASS-BF4080?style=for-the-badge&logo=sass&logoColor=white "SASS")
-![Python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=Python&logoColor=white)
