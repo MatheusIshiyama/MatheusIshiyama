@@ -82,4 +82,3 @@
 ![Adonis](https://img.shields.io/badge/-Adonisjs-000000?style=for-the-badge&logo=Adonisjs&logoColor=white "Adonis")
 ![Sequelize](https://img.shields.io/badge/-Sequelize-399af3?style=for-the-badge&logo=Sequelize&logoColor=white "Sequelize")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=Postgresql&logoColor=white "Postgre SQL")
-![SQLite](https://img.shields.io/badge/-SQLite-03BAFC?style=for-the-badge&logo=sqlite&logoColor=white "SQLite")
