@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Matheus_Ishiyama-0a66c2?style=for-the-badge&logo=Linkedin "https://www.linkedin.com/in/matheusishiyama")](https://www.linkedin.com/in/matheusishiyama/)
 ![Hotmail](https://img.shields.io/badge/-matheus.ishiyama@outlook.com-0078D4?style=for-the-badge&logo=microsoft "matheus.ishiyama@outlook.com")
+![Email](https://img.shields.io/badge/-matheus.ishiyama@bten.us-0078D4?style=for-the-badge&logo=microsoft "matheus.ishiyama@bten.us")
 
 ---
 
