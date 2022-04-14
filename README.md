@@ -12,8 +12,7 @@
 
 ## 💡 Some Curiosities about me
 
-- 😄 My name is **Matheus Eduardo Ishiyama** and I'm **20** years old.
-- 💻 Backend Developer at Lead Up Digital.
+- 😄 My name is **Matheus Eduardo Ishiyama** and I'm **21** years old.
 - 💻 Backend Developer at Bten Brasil.
 - 🎓 I have a diploma in **Industrial Automation Technician**.
 - 📚 I'm self-taught, so I study by my own.
@@ -28,8 +27,7 @@
   
 ## 💡 Algumas curiosidades sobre mim
 
-- 😄 Meu nome é **Matheus Eduardo Ishiyama** e eu tenho **20** anos.
-- 💻 Desenvolvedor Backend na Lead Up Digital.
+- 😄 Meu nome é **Matheus Eduardo Ishiyama** e eu tenho **21** anos.
 - 💻 Desenvolvedor Backend na Bten Brasil.
 - 🎓 Tenho diploma em **Técnico de Automação Industrial**.
 - 📚 Sou autodidata, então estudo por minha conta.
