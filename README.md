@@ -77,6 +77,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white "Node.js")
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "Javascript")
 ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![Adonis](https://img.shields.io/badge/-Adonisjs-000000?style=for-the-badge&logo=Adonisjs&logoColor=white "Adonis")
 ![Sequelize](https://img.shields.io/badge/-Sequelize-399af3?style=for-the-badge&logo=Sequelize&logoColor=white "Sequelize")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=Postgresql&logoColor=white "Postgre SQL")
