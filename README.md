@@ -1,6 +1,6 @@
 ## Hey there, welcome to my github space 👋 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=MatheusIshiyama.MatheusIshiyama)
 
-**Contacts**
+### 📬 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/-Matheus_Ishiyama-0a66c2?style=for-the-badge&logo=Linkedin "https://www.linkedin.com/in/matheusishiyama")](https://www.linkedin.com/in/matheusishiyama/)
 ![Hotmail](https://img.shields.io/badge/-matheus.ishiyama@outlook.com-0078D4?style=for-the-badge&logo=microsoft "matheus.ishiyama@outlook.com")
@@ -8,8 +8,8 @@
 ---
 
 <img align="right" src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif" width="50%">
-
-## 💡 About me
+  
+### 💡 About me
 
 - 😄 My name is **Matheus Ishiyama** and I'm **23** years old.
 - 🗺️ Current Living in Japan.
@@ -19,6 +19,7 @@
 - 💻 For now, I'm studying about _Typescript_, _NodeJs_, _Godot_ and _Unity_.
 - 🎶 I love listening to music, so anything I do, I listen to music. I usually listen to Lo-fi, Pop and Alternatives songs.
 - 😊 I love develop projects, so if you have some ideas, talk to me, maybe we can do it together.
+
 
 ---
 
